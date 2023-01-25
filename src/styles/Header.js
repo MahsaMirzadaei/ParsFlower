@@ -1,10 +1,9 @@
 import styled from "styled-components";
-import HeaderBackImg from '../img/bg.jpg'
 import { theme } from "../Theme";
 
 
 export const BackgroundSection = styled.section`
-// background-image: url(${HeaderBackImg});
+
 
     background-color: ${theme.mint};
     background-position: center;
